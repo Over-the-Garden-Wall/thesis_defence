@@ -68,7 +68,11 @@
 
 \begin_body
 
-\begin_layout Part*
+\begin_layout Section
+title slide
+\end_layout
+
+\begin_layout Part
 introduction
 \end_layout
 
@@ -97,7 +101,7 @@ Cells in the retina
 \end_layout
 
 \begin_layout Standard
-introduce Photoreceptors, BCs, ACs, GCs.
+introduce BCs, ACs, GCs.
 \end_layout
 
 \begin_layout Subsection
@@ -106,30 +110,6 @@ DS in the retina
 
 \begin_layout Standard
 introduce DS
-\end_layout
-
-\begin_layout Subsection
-DS in GCs
-\end_layout
-
-\begin_layout Standard
--
-\end_layout
-
-\begin_layout Subsection
-DS observed in SAC
-\end_layout
-
-\begin_layout Standard
--
-\end_layout
-
-\begin_layout Subsection
-The IPL
-\end_layout
-
-\begin_layout Standard
--
 \end_layout
 
 \begin_layout Section
@@ -153,55 +133,7 @@ image of e2198
 \end_layout
 
 \begin_layout Subsection
-CNN for e2198
-\end_layout
-
-\begin_layout Standard
-CNNs make supervoxels
-\end_layout
-
-\begin_layout Subsection
-eyewire
-\end_layout
-
-\begin_layout Standard
-Crowdsourcing
-\end_layout
-
-\begin_layout Section
-BC Classification
-\end_layout
-
-\begin_layout Subsection
-BC types
-\end_layout
-
-\begin_layout Standard
-wassle
-\end_layout
-
-\begin_layout Subsection
-BC types 2
-\end_layout
-
-\begin_layout Standard
-helmstaedter
-\end_layout
-
-\begin_layout Subsection
-Tiling Property
-\end_layout
-
-\begin_layout Standard
-BC tiling
-\end_layout
-
-\begin_layout Subsection
-A new BC type
-\end_layout
-
-\begin_layout Standard
-asfaf
+adss
 \end_layout
 
 \end_body
